@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: java_rest-api
+Implementation-Version: v1.0
+Built-By: User
+Implementation-Vendor-Id: com.api
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/REST/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
