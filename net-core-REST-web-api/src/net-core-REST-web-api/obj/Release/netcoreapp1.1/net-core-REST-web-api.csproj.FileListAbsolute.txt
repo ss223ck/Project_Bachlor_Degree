@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\net-core-REST-web-api\src\net-core-REST-web-api\bin\Release\netcoreapp1.1\net-core-REST-web-api.deps.json
+C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\net-core-REST-web-api\src\net-core-REST-web-api\bin\Release\netcoreapp1.1\net-core-REST-web-api.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\net-core-REST-web-api\src\net-core-REST-web-api\bin\Release\netcoreapp1.1\net-core-REST-web-api.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\net-core-REST-web-api\src\net-core-REST-web-api\bin\Release\netcoreapp1.1\net-core-REST-web-api.dll
+C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\net-core-REST-web-api\src\net-core-REST-web-api\bin\Release\netcoreapp1.1\net-core-REST-web-api.pdb
+C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\net-core-REST-web-api\src\net-core-REST-web-api\obj\Release\netcoreapp1.1\net-core-REST-web-api.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\net-core-REST-web-api\src\net-core-REST-web-api\obj\Release\netcoreapp1.1\net-core-REST-web-api.dll
+C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\net-core-REST-web-api\src\net-core-REST-web-api\obj\Release\netcoreapp1.1\net-core-REST-web-api.pdb
