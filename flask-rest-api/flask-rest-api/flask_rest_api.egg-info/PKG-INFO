@@ -1,10 +1,10 @@
 Metadata-Version: 1.0
 Name: flask-rest-api
 Version: 1.0
-Summary: UNKNOWN
-Home-page: UNKNOWN
-Author: UNKNOWN
-Author-email: UNKNOWN
+Summary: Simple flask rest-api
+Home-page: https://github.com/ss223ck/rest-applications/
+Author: Sverker Soderlund
+Author-email: none
 License: UNKNOWN
 Description: UNKNOWN
 Platform: UNKNOWN

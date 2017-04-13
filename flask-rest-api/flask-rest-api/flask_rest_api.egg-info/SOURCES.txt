@@ -1,6 +1,7 @@
 MANIFEST.in
 flaskrestapi.ini
 setup.cfg
+setup.py
 wsgi.py
 env/pip-selfcheck.json
 env/pyvenv.cfg
@@ -1486,7 +1487,9 @@ env/.ptvs/werkzeug/werkzeug.wrappers.idb.$memlist
 env/.ptvs/werkzeug/werkzeug.wsgi.idb
 env/.ptvs/werkzeug/werkzeug.wsgi.idb.$memlist
 env/Lib/site-packages/appdirs.py
+env/Lib/site-packages/easy-install.pth
 env/Lib/site-packages/easy_install.py
+env/Lib/site-packages/flask-rest-api.egg-link
 env/Lib/site-packages/itsdangerous.py
 env/Lib/site-packages/pyparsing.py
 env/Lib/site-packages/six.py
@@ -3622,6 +3625,7 @@ env/Scripts/activate.bat
 env/Scripts/deactivate.bat
 env/Scripts/easy_install-3.4.exe
 env/Scripts/easy_install.exe
+env/Scripts/flask-script.py
 env/Scripts/flask.exe
 env/Scripts/pip.exe
 env/Scripts/pip3.4.exe

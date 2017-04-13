@@ -1,0 +1,13 @@
+[Unit]
+	Description=uWSGI instance to serve myproject
+	After=network.target
+
+	[Service]
+	User=www-data
+	WorkingDirectory=/var/www/flask_rest_api-1.0
+	Environment="PATH=/var/www/flask_rest_api-1.0/env/bin"
+	ExecStart=/var/www/flask_rest_api-1.0/env/bin/uwsgi --ini myproject.ini
+	
+	
+	[Install]
+	WantedBy=multi-user.target
