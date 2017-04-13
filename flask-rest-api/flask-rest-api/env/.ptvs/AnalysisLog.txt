@@ -5606,3 +5606,78 @@ System.FormatException: Input string was not in a correct format.
 2017-04-13T14:11:17: Deleting 2 files
 2017-04-13T14:11:17: Deleting "C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\pymysql\MySQLdb.idb"
 2017-04-13T14:11:17: Deleting "C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\pymysql\_mysql.idb"
+
+2017-04-13T15:01:18: Start analysis
+2017-04-13T15:01:18: [WARNING] Library was set explicitly - skipping path detection
+2017-04-13T15:01:18: IncludeModulesFromModulePath = win32com
+2017-04-13T15:01:18: Deleting 0 files
+2017-04-13T15:01:18: Scraping env.Scripts.pyexpat
+2017-04-13T15:01:18: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts.pyexpat c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts.pyexpat
+2017-04-13T15:01:18: Scraping env.Scripts.select
+2017-04-13T15:01:18: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts.select c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts.select
+2017-04-13T15:01:18: Scraping env.Scripts.unicodedata
+2017-04-13T15:01:18: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts.unicodedata c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts.unicodedata
+2017-04-13T15:01:18: Scraping env.Scripts.winsound
+2017-04-13T15:01:18: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts.winsound c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts.winsound
+2017-04-13T15:01:18: Scraping env.Scripts._bz2
+2017-04-13T15:01:18: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._bz2 c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._bz2
+2017-04-13T15:01:18: Scraping env.Scripts._ctypes
+2017-04-13T15:01:18: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._ctypes c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._ctypes
+2017-04-13T15:01:19: Scraping env.Scripts._ctypes_test
+2017-04-13T15:01:19: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._ctypes_test c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._ctypes_test
+2017-04-13T15:01:19: Scraping env.Scripts._decimal
+2017-04-13T15:01:19: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._decimal c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._decimal
+2017-04-13T15:01:19: Scraping env.Scripts._elementtree
+2017-04-13T15:01:19: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._elementtree c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._elementtree
+2017-04-13T15:01:19: Scraping env.Scripts._hashlib
+2017-04-13T15:01:19: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._hashlib c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._hashlib
+2017-04-13T15:01:19: Scraping env.Scripts._lzma
+2017-04-13T15:01:19: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._lzma c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._lzma
+2017-04-13T15:01:19: Scraping env.Scripts._msi
+2017-04-13T15:01:19: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._msi c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._msi
+2017-04-13T15:01:19: Scraping env.Scripts._multiprocessing
+2017-04-13T15:01:19: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._multiprocessing c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._multiprocessing
+2017-04-13T15:01:19: Scraping env.Scripts._overlapped
+2017-04-13T15:01:19: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._overlapped c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._overlapped
+2017-04-13T15:01:19: Scraping env.Scripts._socket
+2017-04-13T15:01:19: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._socket c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._socket
+2017-04-13T15:01:20: Scraping env.Scripts._sqlite3
+2017-04-13T15:01:20: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._sqlite3 c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._sqlite3
+2017-04-13T15:01:20: Scraping env.Scripts._ssl
+2017-04-13T15:01:20: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._ssl c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._ssl
+2017-04-13T15:01:20: Scraping env.Scripts._testbuffer
+2017-04-13T15:01:20: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._testbuffer c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._testbuffer
+2017-04-13T15:01:20: Scraping env.Scripts._testcapi
+2017-04-13T15:01:20: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._testcapi c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._testcapi
+2017-04-13T15:01:20: Scraping env.Scripts._testimportmultiple
+2017-04-13T15:01:20: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._testimportmultiple c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._testimportmultiple
+2017-04-13T15:01:20: Scraping env.Scripts._tkinter
+2017-04-13T15:01:20: Command: C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape env.Scripts._tkinter c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api C:\Users\User\Documents\GitHub\Project_Bachlor_Degree\flask-rest-api\flask-rest-api\env\.ptvs\env\env.Scripts._tkinter
+2017-04-13T15:01:20: Scraped 21 files
+2017-04-13T15:01:20: astropy.CallDepth = 0
+2017-04-13T15:01:20: matplotlib.CallDepth = 3
+2017-04-13T15:01:20: pandas.CallDepth = 0
+2017-04-13T15:01:20: sympy.CallDepth = 0
+2017-04-13T15:01:20: Start group "c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api" with 2 files
+2017-04-13T15:01:20: Parsing "setup" ("c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api\setup.py")
+2017-04-13T15:01:20: Parsing "wsgi" ("c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api\wsgi.py")
+2017-04-13T15:01:20: Parsing complete
+2017-04-13T15:01:20: Analyzing "setup"
+2017-04-13T15:01:20: Analyzing "wsgi"
+2017-04-13T15:01:20: Starting analysis of 2 modules
+2017-04-13T15:01:20: Analysis complete
+2017-04-13T15:01:20: Saving group "c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api"
+2017-04-13T15:01:21: End of group "c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api"
+2017-04-13T15:01:21: Start group "c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api\flask_rest_api" with 3 files
+2017-04-13T15:01:22: Parsing "flask_rest_api.apicontroller" ("c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api\flask_rest_api\apicontroller.py")
+2017-04-13T15:01:22: Parsing "flask_rest_api.person" ("c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api\flask_rest_api\person.py")
+2017-04-13T15:01:22: Parsing "flask_rest_api" ("c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api\flask_rest_api\__init__.py")
+2017-04-13T15:01:22: Parsing complete
+2017-04-13T15:01:22: Analyzing "flask_rest_api.apicontroller"
+2017-04-13T15:01:22: Analyzing "flask_rest_api.person"
+2017-04-13T15:01:22: Analyzing "flask_rest_api"
+2017-04-13T15:01:22: Starting analysis of 3 modules
+2017-04-13T15:01:22: Analysis complete
+2017-04-13T15:01:22: Saving group "c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api\flask_rest_api"
+2017-04-13T15:01:23: End of group "c:\users\user\documents\github\project_bachlor_degree\flask-rest-api\flask-rest-api\flask_rest_api"
+2017-04-13T15:01:23: Deleting 0 files
