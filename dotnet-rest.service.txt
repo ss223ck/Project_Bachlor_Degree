@@ -1,0 +1,14 @@
+[Unit]
+    Description=dotnet core rest
+
+    [Service]
+    WorkingDirectory=/var/www/dotnet-rest
+    ExecStart=/usr/bin/dotnet /var/www/dotnet-rest/net-core-REST-web-api.dll
+    Restart=always
+    RestartSec=10                                          # Restart service after 10 seconds if dotnet service crashes
+    SyslogIdentifier=dotnet-rest
+    User=www-data
+    Environment=ASPNETCORE_ENVIRONMENT=Production 
+
+    [Install]
+    WantedBy=multi-user.target

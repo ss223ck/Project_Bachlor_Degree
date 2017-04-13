@@ -1,0 +1,13 @@
+[Unit]
+    Description=java rest
+
+    [Service]
+    WorkingDirectory=/var/www/
+    ExecStart=/usr/bin/java /var/www/REST-v1.0.jar
+    Restart=always
+    RestartSec=10                                          # Restart service after 10 seconds if dotnet service crashes
+    SyslogIdentifier=java-rest
+    User=www-data
+
+    [Install]
+    WantedBy=multi-user.target
