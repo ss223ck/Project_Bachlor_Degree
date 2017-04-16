@@ -64,7 +64,7 @@ namespace net_core_REST_web_api.Controllers
         }
 
         // PUT api/values/5
-        [HttpPut("{id}")]
+        [HttpPut]
         public ActionResult Put([FromBody]Person person)
         {
             try
