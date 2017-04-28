@@ -15,7 +15,7 @@ namespace net_core_REST_web_api
             var host = new WebHostBuilder()
                 .UseKestrel(options =>
                 {
-                    options.ThreadCount = 100;
+                    options.ThreadCount = 200;
                 })
                 .UseContentRoot(Directory.GetCurrentDirectory())
                 .UseIISIntegration()

@@ -1,0 +1,16 @@
+{
+  "name": "restify-js-rest-api",
+  "version": "0.0.0",
+  "description": "restifyJS-rest-api",
+  "main": "server.js",
+  "author": {
+    "name": "User"
+  },
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "restify": "^4.3.0",
+    "restify-errors": "^4.3.0",
+    "restify-plugins": "^1.6.0",
+    "sequelize": "^3.30.4"
+  }
+}
