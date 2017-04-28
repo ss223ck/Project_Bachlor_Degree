@@ -1,10 +1,10 @@
 {
   "name": "restify-js-rest-api",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "restifyJS-rest-api",
   "main": "server.js",
   "author": {
-    "name": "User"
+    "name": "Sverker"
   },
   "dependencies": {
     "mysql": "^2.13.0",
