@@ -1,0 +1,14 @@
+[Unit]
+    Description=express rest api
+
+    [Service]
+    WorkingDirectory=/var/www/express-rest-api
+    ExecStart=/usr/bin/npm start /var/www/express-rest-api/
+    Restart=always
+    RestartSec=10                                          # Restart service after 10 seconds if dotnet service crashes
+    SyslogIdentifier=express-rest
+    User=root
+    Environment=NODE_ENV=production 
+
+    [Install]
+    WantedBy=multi-user.target
