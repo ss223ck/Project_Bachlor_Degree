@@ -23,13 +23,13 @@
         <stringProp name="Unit">S</stringProp>
       </com.blazemeter.jmeter.threads.concurrency.ConcurrencyThreadGroup>
       <hashTree>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="PUT" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Create" enabled="true">
           <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
             <collectionProp name="Arguments.arguments">
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                <stringProp name="Argument.value">{&quot;id&quot;:&quot;${__threadNum}&quot;, &quot;first_name&quot;: &quot;Jeffrey&quot;, &quot;last_name&quot;: &quot;Washington&quot;,&quot;email&quot;: &quot;jwashington0@plala.or.jp&quot;, &quot;phone_number&quot;: &quot;30-(408)595-8254&quot;, &quot;personal_number&quot;: &quot;413-09-0655&quot;}</stringProp>
+                <stringProp name="Argument.value">{ &quot;first_name&quot;: &quot;Jeffrey&quot;, &quot;last_name&quot;: &quot;Washington&quot;,&quot;email&quot;: &quot;jwashington0@plala.or.jp&quot;, &quot;phone_number&quot;: &quot;30-(408)595-8254&quot;, &quot;personal_number&quot;: &quot;413-09-0655&quot;}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
             </collectionProp>
@@ -41,7 +41,7 @@
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
           <stringProp name="HTTPSampler.path">api/values/</stringProp>
-          <stringProp name="HTTPSampler.method">PUT</stringProp>
+          <stringProp name="HTTPSampler.method">POST</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
           <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
